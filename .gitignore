@@ -1,0 +1,3 @@
+.pynb_checkpoints/
+*.html
+__pycache__/
